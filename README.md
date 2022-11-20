@@ -1,1 +1,1 @@
-# Edelman-Trust-Barometer
+# Baromètre de la confiance Edelman
