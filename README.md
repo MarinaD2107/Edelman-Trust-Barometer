@@ -1,0 +1,1 @@
+# Edelman-Trust-Barometer
