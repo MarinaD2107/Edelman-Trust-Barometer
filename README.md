@@ -12,5 +12,6 @@ Ils sont donc les premiers utilisateurs de leur propre baromètre.
 ### L'utilisation Politique
 ### L'utulisation académique
 ## Baromètre 2022 : Ce que vous devez savoir
+![Image](https://www.edelman.com/trust/2022-trust-barometer)
 ## L'avis des étudiants
 ## La presse en parle
