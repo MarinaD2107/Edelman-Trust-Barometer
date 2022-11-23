@@ -11,5 +11,6 @@ Ils sont donc les premiers utilisateurs de leur propre baromètre.
 ### L'utilisation des entreprises
 ### L'utilisation Politique
 ### L'utulisation académique
+## Baromètre 2022 : Ce que vous devez savoir
 ## L'avis des étudiants
 ## La presse en parle
