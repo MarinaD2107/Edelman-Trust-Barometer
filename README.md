@@ -17,6 +17,7 @@ Une enquête est l'un des moyens les plus courants de mesurer le niveau de confi
 
 ## La structure du baromètre 
 **L’information sur la structure générale**
+
 Edelman Baromètre est l'enquête quantitative donc il consistent principalement des questions fermées. Il existe trois types des questions ferment utilisés dans le Baromètre:
 1) Les questions comportant les réponses binaire (oui ou non)
 2) Les questions comportant les multiple réponses 
