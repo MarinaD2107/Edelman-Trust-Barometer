@@ -2,6 +2,7 @@
 Au début du XX siècle George Simmel a montré dans ses études que la confiance c’est la construction assez subjective, qui est basée sur les plusieurs piliers de la perception de la réalité individuelle même que sur les normes acceptées dans la société. Néanmoins, selon le sociologue confiance reste “une autre forme de lien social” qui permet de construire des relations assez proches non seulement sur le niveau individuel, mais aussi entre les institutions et l’individu.
 
 Dans le XXI siècle le monde est face à plusieurs problèmes: la crise économique et politique, les changement climatique, le développement accéléré du Big Data, etc. Par conséquent, les gens se sentent de plus en plus perdus et manipulés par des forces différentes. Par exemple, en France selon le Baromètre «Confiance & Bien-être des Français» en 2021 seuls 23% des Français ont confiance dans leurs gouvernants politiques pour tenter d’améliorer leur qualité de vie. Et aux Etats-Unis selon Gallup Centre  on peut observer la diminution radicale du niveau de confiance dans les médias comme télévision, radio et magasins. 
+
 Le niveau de la confiance dans les medias aux Etats-Unis, 2022
 ![Le niveau de la confiance dans les medias aux Etats-Unis](https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/main/Screenshot%202022-11-24%20at%2013.59.43.png)
 Source: Gallup, 2022
