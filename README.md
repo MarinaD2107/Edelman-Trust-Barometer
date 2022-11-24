@@ -44,9 +44,10 @@ Country-specific data margin of error:
 + informed public +/- 6.9% (N=min 200, varies by country), except for China and U.S. +/- 4.4% (N=500) and Nigeria +/- 9.8% (N=100);
 L'étude distingue deux types de public: informé et générale. Pour montrer la différence entre les gens qui sont plus intéressés par le sujet du Baromètre et aussi se placent sur le niveau social plus haut par rapport aux gens qui sont dans la public générale. C’est indiqué sur les résultats de recherche quand les questions étaient adresse aux gens que représentent le public informé.
 
-![Le niveau de la confiance dans les medias aux Etats-Unis]()
+La méthodologie, example du Baromètre de la confiance en France sur la protection de la Santé 
+![La méthodologie](https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/68870c4ec97e55b898746de797842ba3cbcf8d82/Screenshot%202022-11-24%20at%2023.19.45.png)
 
-
+**
 
 ## Les utilisateurs du baromètre
 Le baromètre d’Edelman est la plupart du temps utilisé comme un outil de veille car c’est une étude publique publiée annuellement. Les différents publics peuvent revenir d’une année sur l’autre pour effectuer une veille gratuitement , il n'existe donc pas de problème d’équité entre les différentes parties qui souhaite s’appuyer sur ces données pour construire leurs stratégies de communication.*
