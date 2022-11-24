@@ -48,7 +48,18 @@ L'étude distingue deux types de public: informé et générale. Pour montrer la
 La méthodologie, example du Baromètre de la confiance en France sur la protection de la Santé 
 ![La méthodologie](https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/68870c4ec97e55b898746de797842ba3cbcf8d82/Screenshot%202022-11-24%20at%2023.19.45.png)
 
-**
+**Indice de la confiance**
+
+L'instrument principal pour l’analyse des données est l’indice de la confiance. L'indice de confiance est le pourcentage moyen de confiance dans les ONG, les entreprises, les gouvernements et les médias. 
+
+L'indice est mesuré sur une échelle de neuf points, où 6-9 est considéré comme de la confiance. À partir de cela, différents niveaux de confiance sont alors établis :
++ il y a une défiance lorsque l’indice de confiance est inférieur à 50%,
++ la confiance est neutre lorsqu’il est compris entre 50% et 59%,
++ la confiance est atteinte lorsqu’il est supérieur à 60%.
+Par exemple, ici le measurement de la confiance globale des Français par rapport aux autres pays. 
+
+
+
 
 ## Les utilisateurs du baromètre
 Le baromètre d’Edelman est la plupart du temps utilisé comme un outil de veille car c’est une étude publique publiée annuellement. Les différents publics peuvent revenir d’une année sur l’autre pour effectuer une veille gratuitement , il n'existe donc pas de problème d’équité entre les différentes parties qui souhaite s’appuyer sur ces données pour construire leurs stratégies de communication.*
