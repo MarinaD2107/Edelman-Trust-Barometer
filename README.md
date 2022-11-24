@@ -29,10 +29,13 @@ Baromètre d'Edelman, 2021:
 ![Baromètre d'Edelman, 2021](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-24%20at%2019.18.53.png?raw=true)
 Source: Edelman, 2021
 
+Baromètre d'Edelman, 2022:
+![Baromètre d'Edelman, 2021] (https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-24%20at%2019.19.01.png?raw=true)
+Source: Edelman, 2022
 
 **La méthodologie**
 
-Chaque année l’enquête en ligne est lancée dans 28 pays avec plus de 1500 répondants per paye, l'échantillon totale est 36000+ de répondants. 
+Chaque année l’enquête en ligne est lancée dans les 28 pays avec plus de 1500 répondants per pays, l'échantillon totale est 36000+ de répondants. 
 
 Par exemple, la description de la construction de l'échantillon en 2021 est suivante (27 pays):
 General population +/- 0.6% (N=31,050); 
