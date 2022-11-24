@@ -62,7 +62,7 @@ Par exemple, ici le measurement de la confiance globale des Français par rappor
 
 En général, l'étude utilise principalement les échelles de Likert et de Bogardus. L'échelle de Likert est basée sur un système de 5 points allant de "pas du tout d'accord" à "tout à fait d'accord". Le principal inconvénient de ce type d'échelle est la tendance des répondants à éviter les polarités et à choisir une option neutre, en particulier pour les questions liées à des sujets sociaux aigus ou sensibles pour le répondant.
 
-Dans ce cas, l'échelle de Bogardus est un moyen logique d'équilibrer la précision des données étudiées, car il s'agit d'une échelle cumulative qui permet de mesurer la proximité d'un individu avec, dans le cas de ..., une institution sociale. Le baromètre utilise une échelle de neuf points, où 1 à 4 = aucune confiance, 4 à 6 = confiance modérée, 6+ = confiance totale. 
+Dans ce cas, l'échelle de Bogardus est un moyen logique d'équilibrer la précision des données étudiées, car il s'agit d'une échelle cumulative qui permet de mesurer la proximité d'un individu avec, dans le cas du Baromètre d'Edelman, une institution sociale. Le baromètre utilise une échelle de neuf points, où 1 à 4 = aucune confiance, 4 à 6 = confiance modérée, 6+ = confiance totale. 
 
 
 ## Les utilisateurs du baromètre
