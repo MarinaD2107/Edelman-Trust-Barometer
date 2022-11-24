@@ -58,7 +58,7 @@ L'indice est mesuré sur une échelle de neuf points, où 6-9 est considéré co
 + la confiance est atteinte lorsqu’il est supérieur à 60%.
 Par exemple, ici le measurement de la confiance globale des Français par rapport aux autres pays. 
 
-
+![la confiance globale des Français] (https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-24%20at%2023.55.38.png?raw=true)
 
 
 ## Les utilisateurs du baromètre
