@@ -30,6 +30,20 @@ Baromètre d'Edelman, 2021:
 Source: Edelman, 2021
 
 
+**La méthodologie**
+Chaque année l’enquête en ligne est lancée dans 28 pays avec plus de 1500 répondants per paye, l'échantillon totale est 36000+ de répondants. 
+
+Par exemple, la description de la construction de l'échantillon en 2021 est suivante (27 pays):
+General population +/- 0.6% (N=31,050); 
+informed public +/- 1.3% (N=6,000); 
+mass population +/- 0.6% (N=25,050+); 
+half-sample global general online population +/- 0.8% (N=15,525). 
+
+Country-specific data margin of error: 
+General population +/- 2.9% (N=1,150); 
+informed public +/- 6.9% (N=min 200, varies by country), except for China and U.S. +/- 4.4% (N=500) and Nigeria +/- 9.8% (N=100);
+
+
 
 ## Les utilisateurs du baromètre
 Le baromètre d’Edelman est la plupart du temps utilisé comme un outil de veille car c’est une étude publique publiée annuellement. Les différents publics peuvent revenir d’une année sur l’autre pour effectuer une veille gratuitement , il n'existe donc pas de problème d’équité entre les différentes parties qui souhaite s’appuyer sur ces données pour construire leurs stratégies de communication.*
