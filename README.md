@@ -78,4 +78,8 @@ Ils sont donc les premiers utilisateurs de leur propre baromètre.
 ![This is an image](https://www.edelman.com/trust/2022-trust-barometer)
 ## Limits 
 ## L'avis des étudiants
+Afin d'en savoir plus sur ce que les étudiants, qui constituent un groupe important d'utilisateurs des résultats du baromètre, pensent de la pertinence et de la qualité du baromètre Edelman, nous avons réalisé une petite enquête. 
+
+L'enquête était basée sur un questionnaire de 5 questions et n'est pas représentative de la population étudiante générale en France.
+
 ## La presse en parle
