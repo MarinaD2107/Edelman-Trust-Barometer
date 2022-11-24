@@ -32,7 +32,7 @@ Baromètre d'Edelman, 2021 | Baromètre d'Edelman, 2022
 
 **La méthodologie**
 
-Chaque année l’enquête en ligne est lancée dans les 28 pays avec plus de 1500 répondants per pays, l'échantillon totale est 36000+ de répondants. 
+Chaque année l’enquête en ligne est lancée dans les 28 pays avec plus de 1500 répondants per pays, l'échantillon totale est 36000+ de répondants. Mais il est également important de noter que, chaque année, certains pays sont exclus du baromètre parce qu'il existe un risque de distorsion des données et d'erreur de représentativité statistique. Par exemple, le Nigeria a été exclu du Baromètre 2021 car la population qui a la possibilité de répondre à l'enquête en ligne n'est pas représentative de l'ensemble de la population du pays à divers égards.
 
 Par exemple, la description de la construction de l'échantillon en 2021 est suivante (27 pays):
 General population +/- 0.6% (N=31,050); 
