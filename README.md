@@ -35,13 +35,16 @@ Chaque année l’enquête en ligne est lancée dans les 28 pays avec plus de 15
 
 Par exemple, la description de la construction de l'échantillon en 2021 est suivante (27 pays):
 General population +/- 0.6% (N=31,050); 
-informed public +/- 1.3% (N=6,000); 
-mass population +/- 0.6% (N=25,050+); 
-half-sample global general online population +/- 0.8% (N=15,525). 
++ informed public +/- 1.3% (N=6,000); 
++ mass population +/- 0.6% (N=25,050+); 
++ half-sample global general online population +/- 0.8% (N=15,525). 
 
 Country-specific data margin of error: 
-General population +/- 2.9% (N=1,150); 
-informed public +/- 6.9% (N=min 200, varies by country), except for China and U.S. +/- 4.4% (N=500) and Nigeria +/- 9.8% (N=100);
++ General population +/- 2.9% (N=1,150); 
++ informed public +/- 6.9% (N=min 200, varies by country), except for China and U.S. +/- 4.4% (N=500) and Nigeria +/- 9.8% (N=100);
+L'étude distingue deux types de public: informé et générale. Pour montrer la différence entre les gens qui sont plus intéressés par le sujet du Baromètre et aussi se placent sur le niveau social plus haut par rapport aux gens qui sont dans la public générale. C’est indiqué sur les résultats de recherche quand les questions étaient adresse aux gens que représentent le public informé.
+
+![Le niveau de la confiance dans les medias aux Etats-Unis]()
 
 
 
