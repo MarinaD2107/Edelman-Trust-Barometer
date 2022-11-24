@@ -3,7 +3,7 @@ Au début du XX siècle George Simmel a montré dans ses études que la confianc
 
 Dans le XXI siècle le monde est face à plusieurs problèmes: la crise économique et politique, les changement climatique, le développement accéléré du Big Data, etc. Par conséquent, les gens se sentent de plus en plus perdus et manipulés par des forces différentes. Par exemple, en France selon le Baromètre «Confiance & Bien-être des Français» en 2021 seuls 23% des Français ont confiance dans leurs gouvernants politiques pour tenter d’améliorer leur qualité de vie. Et aux Etats-Unis selon Gallup Centre  on peut observer la diminution radicale du niveau de confiance dans les médias comme télévision, radio et magasins. 
 
-Le niveau de la confiance dans les medias aux Etats-Unis, 2022
+Le niveau de la confiance dans les medias aux Etats-Unis, 2022:
 ![Le niveau de la confiance dans les medias aux Etats-Unis](https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/main/Screenshot%202022-11-24%20at%2013.59.43.png)
 Source: Gallup, 2022
 
@@ -16,6 +16,19 @@ Une enquête est l'un des moyens les plus courants de mesurer le niveau de confi
 ## L'histoire du baromètre d'Edelman 
 
 ## La structure du baromètre 
+**L’information sur la structure générale**
+Edelman Baromètre est l'enquête quantitative donc il consistent principalement des questions fermées. Il existe trois types des questions ferment utilisés dans le Baromètre:
+1) Les questions comportant les réponses binaire (oui ou non)
+2) Les questions comportant les multiple réponses 
+3) Les échelles (une échelle de Likert, Bogardus) 
+
+L'une des caractéristiques du baromètre est qu’il consiste de deux types de questions par rapport au sens:
+1) Les questions qui sont toujours standard, qui sont chaque année présentées pour montrer le bougement dans l’attitude des gens. Par exemple, la question par rapport à la confiance envers  les gouvernements, les ONG, les médias et les entreprises:
+
+Baromètre d'Edelman, 2021:
+![Baromètre d'Edelman, 2021]()
+Source: Edelman, 2021
+
 
 
 ## Les utilisateurs du baromètre
