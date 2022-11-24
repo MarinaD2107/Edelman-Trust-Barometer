@@ -31,6 +31,7 @@ Source: Edelman, 2021
 
 
 **La méthodologie**
+
 Chaque année l’enquête en ligne est lancée dans 28 pays avec plus de 1500 répondants per paye, l'échantillon totale est 36000+ de répondants. 
 
 Par exemple, la description de la construction de l'échantillon en 2021 est suivante (27 pays):
