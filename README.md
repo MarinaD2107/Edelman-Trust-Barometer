@@ -26,7 +26,7 @@ L'une des caractéristiques du baromètre est qu’il consiste de deux types de 
 1) Les questions qui sont toujours standard, qui sont chaque année présentées pour montrer le bougement dans l’attitude des gens. Par exemple, la question par rapport à la confiance envers  les gouvernements, les ONG, les médias et les entreprises:
 
 Baromètre d'Edelman, 2021:
-![Baromètre d'Edelman, 2021]()
+![Baromètre d'Edelman, 2021](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-24%20at%2019.18.53.png?raw=true)
 Source: Edelman, 2021
 
 
