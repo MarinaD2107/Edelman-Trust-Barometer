@@ -73,7 +73,7 @@ La crise du COVID à cependant été profitable aux institutions scientifiques q
 Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un impact néfaste sur la confiance susceptible de freiner les progrès sociaux sur des questions comme le racisme ou le changement climatique : 
 + Il existe une spirale de méfiance à l'encontre du gouvernement et des médias car ces deux entités abuse d'une complicité à avantage mutuel dans le but d'orienter les votes et la pensée publique.
 
-![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/1).png?raw=true)
+![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%201.png)
 
 + L'attention envers les entreprises est excessive car la confiance envers les gouvernement est au plus bas, on attend d'elle prenne position sur de nombreux sujets sociétaux alors qu'elles reste avant tout des entreprises privées à but lucratif.
 
