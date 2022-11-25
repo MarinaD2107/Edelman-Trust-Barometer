@@ -83,7 +83,7 @@ Source : Edelman trust barometer 2022 / Almost seven in 10 people believe they�
 4) La confiance s'éloigne des leaders et devient plus local et dispersée. L'éloignement hiérarchique accroit le manque de confiance, on a désormais plus confiance en son employeur que dans les principaux médias et leaders gouernementaux. 
 
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%204.jpeg)
-Source: Edelman Trust Barometer World
+Source: Edelman Trust Barometer World / Trust in employer
 ## Limites 
 ## L'avis des étudiants
 ## La presse en parle
