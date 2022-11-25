@@ -115,10 +115,12 @@ L'enquête était basée sur un questionnaire de 5 questions et n'est pas repré
 
 Les étudiants s'accordent sur l'importance de disposer d'un outil pour mesurer la confiance et estiment que le baromètre d'Edelman est une source généralement pertinente de données sur la confiance. Le seul inconvénient pour les répondants est que le Baromètre n'est pas mis en œuvre dans tous les pays et exclut des cas intéressants pour la recherche:
 > Théoriquement, le baromètre d'Edelman est fiable. Il y a eu + de 36.000 répondants dans 28 pays. Néanmoins, je doute que le baromètre soit fiable pour des pays comme l'Inde, la Chine ou encore les Émirats Arabes Unis qui trustent les premières places du classement alors qu'ils ne sont pas des démocraties libérales.
+
 > Je pense que c’est possible de mesurer la confiance dans les pays démocratisés mais qu’il serait plus intéressant de limiter l’étude à ces pays plutôt que de l’étendre à des pays qui ne sont pas démocratisés. Il vaut mieux recueillir quelques données correctes que beaucoup de données dont on ne connaît pas la fiabilité. 
 
 Et la bonne nouvelle est que les étudiants continuent de croire aux institutions sociales, même malgré les résultats pas toujours réconfortants du baromètre. Cela peut s'expliquer par le fait que les jeunes se sentent désormais davantage maîtres de leur influence sociale et politique et comprennent qu'ils sont un agent de changement dans la société:
 > Contrairement aux résultats observés, je fais partie de la minorité des français qui ont confiance dans les institutions politiques, les ONG, les médias et les entreprises. Si je devais faire un classement de la confiance : 1. les institutions politiques ; 2. les ONG ; 3. les médias ; 4. les entreprises.
+
 > Je décide de croire en certaines institutions, médias…
 En me penchant sur la situation dans différents pays dans le monde j’aurais tendance à penser que si je ne crois pas aux institutions françaises ou à certains médias je risque de ne pas accorder ma confiance à beaucoup de pays et de médias dans le monde. Selon moi il faut savoir accorder sa confiance en certaines choses au risque de connaître des désillusions sinon on risque de ressentir constamment un sentiment de méfiance.
 
