@@ -64,7 +64,49 @@ En général, l'étude utilise principalement les échelles de Likert et de Boga
 
 Dans ce cas, l'échelle de Bogardus est un moyen logique d'équilibrer la précision des données étudiées, car il s'agit d'une échelle cumulative qui permet de mesurer la proximité d'un individu avec, dans le cas du Baromètre d'Edelman, une institution sociale. Le baromètre utilise une échelle de neuf points, où 1 à 4 = aucune confiance, 4 à 6 = confiance modérée, 6+ = confiance totale. 
 
+## Les utilisateurs du baromètre
+Le baromètre d’Edelman est la plupart du temps utilisé comme un outil de veille car c’est une étude publique publiée annuellement. Les différents publics peuvent revenir d’une année sur l’autre pour effectuer une veille gratuitement , il n'existe donc pas de problème d’équité entre les différentes parties qui souhaite s’appuyer sur ces données pour construire leurs stratégies de communication.*
+### L'utilisation d'Edelman pour les entreprises
+En tant qu'agence de communication, Edelman est le premier utilisateur de son propre baromètre. Leur objectif est de proposer des stratégies de communication ayant un impact émotionnel sur la cible. Pour celà ils doivent vérifier le niveau de confiance du public visé, Edelman se réfère donc au baromètre pour connaître le taux de confiance sur le marché ciblé. Selon eux, ils sont également en première position pour identifier les évolutions de société concernant le domaine de la confiance ce qui est un avantage considérable puisqu'il place la confiance au centre de la relation d'échange. 
+Au fil du temps ils ont appris à créer des opportunités stratégiques  permettant de maximiser la confiance envers les organisations, il propose leur expertise aux organisations et nomme cette stratégie " Edelman Trust Management". 
+Selon Edelman, une entreprise  à laquelle on fait confiance est: 
++ 6 fois plus susceptible de profiter de la fidélité du consommateur
++ 7 fois plus susceptible de demander des prix plus élevés 
++ 8 fois plus résistante en tant qu'organisation
 
+En plus de consulter des informations sur son baromètre annuel, Edelman établit un diagnostique individuel de l'entreprise en calculant la confiance attribuer à cette organisation en particulier. Pour cela Edelman utilise un cadre de mesure de confiance s'appuyant sur les mêmes pilliers que le baromètre annuel appliqué à une organisation individuelle : "The Edelman Net Trust Score"
+![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Edelman%20Net%20Trust%20Score.png?raw=true)
+### L'utilisation Politique
+### L'utilisation Média 
+## Baromètre : Ce que vous devez savoir sur la confiance en 2022
+### L'évolution de la confiance envers les institutions  
+La confiance a beaucoup évolué dans le monde durant les dernières années. Avant la crise du COVID, les leaders de gouvernement étaient ceux auquels on accordait le plus de confiance dans le monde mais aujourd'hui on relève que ce sont les moins truster sur l'étude mondial 2022. On présume que la gestion confuse et baclée de la crise du COVID par de nombreux gouvernements est à l'origine de cette décroissance du taux de confiance envers les gouvernements. 
+La crise du COVID à cependant été profitable aux institutions scientifiques qui sont les plus truster à l'heure actuelle. 
+
+![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Societal%20Leaders%20not%20trusted.png)
+
+### 4 raisons à l'origine du cycle de méfiance 
+Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un impact négatif sur la confiance susceptible de freiner les progrès sociaux sur des questions comme le racisme ou le changement climatique : 
+1) Il existe une spirale de méfiance à l'encontre du gouvernement et des médias car ces deux entités abuse d'une complicité à avantage mutuel dans le but d'orienter les votes et la pensée publique.
+
+![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%201.png)
+Source : Edelman trust barometer 2022 / Almost seven in 10 people believe they’re being lied to by the media and government
+
+2) L'attention envers les entreprises est excessive car la confiance envers les gouvernement est au plus bas, on attend d'elle prenne position sur de nombreux sujets sociétaux alors qu'elles reste avant tout des entreprises privées à but lucratif.
+
+3) La crise sanitaire a creusé la fissure de confiance qui existe à l'égard du gouvernement entre les personnes à revenu élevé et les personnes a revenu plus modeste. Les personnes à revenu élevé ont vu leurs confiances augmenter envers le gouvernement tandis que les plus bas revenus ont encore moins confiance qu'auparavant. 
+
+4) La confiance s'éloigne des leaders et devient plus local et dispersée. L'éloignement hiérarchique accroit le manque de confiance, on a désormais plus confiance en son employeur que dans les principaux médias et leaders gouernementaux. 
+
+![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%204.jpeg)
+Source: Edelman Trust Barometer World / Trust in employer
+## Limites 
+## L'avis des étudiants
+## La presse en parle
+La baromètre d'Edelman est devenu une référence pour la presse dans le monde entié, de nombreux journalistes basent leurs réfléxions sur l'études des chiffre de cette enquête annuelle. 
+Lorsque l'on s'intéresse aux publications dans la presse on remarque que les sujets les plus récurrants utilisant le baromètre d'Edelman sont en liens avec deux thèmes : 
++ La crise de confiance actuelle envers les gouvernements 
++ L'accentuation du rôle des entreprises dans notre société 
 ## Les utilisateurs du baromètre
 Le baromètre d’Edelman est la plupart du temps utilisé comme un outil de veille car c’est une étude publique publiée annuellement. Les différents publics peuvent revenir d’une année sur l’autre pour effectuer une veille gratuitement , il n'existe donc pas de problème d’équité entre les différentes parties qui souhaite s’appuyer sur ces données pour construire leurs stratégies de communication.*
 ### L'utilisation d'Edelman 
