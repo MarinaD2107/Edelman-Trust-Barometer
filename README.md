@@ -100,31 +100,16 @@ Source : Edelman trust barometer 2022 / Almost seven in 10 people believe they�
 
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%204.jpeg)
 Source: Edelman Trust Barometer World / Trust in employer
-## Limites 
-## L'avis des étudiants
-## La presse en parle
+## Les limites du baromètre
+## Notoriéré du baromètre 
+### Auprès de la presse
 La baromètre d'Edelman est devenu une référence pour la presse dans le monde entié, de nombreux journalistes basent leurs réfléxions sur l'études des chiffre de cette enquête annuelle. 
 Lorsque l'on s'intéresse aux publications dans la presse on remarque que les sujets les plus récurrants utilisant le baromètre d'Edelman sont en liens avec deux thèmes : 
 + La crise de confiance actuelle envers les gouvernements 
 + L'accentuation du rôle des entreprises dans notre société 
-## Les utilisateurs du baromètre
-Le baromètre d’Edelman est la plupart du temps utilisé comme un outil de veille car c’est une étude publique publiée annuellement. Les différents publics peuvent revenir d’une année sur l’autre pour effectuer une veille gratuitement , il n'existe donc pas de problème d’équité entre les différentes parties qui souhaite s’appuyer sur ces données pour construire leurs stratégies de communication.*
-### L'utilisation d'Edelman 
-En tant qu'agence de communication, Edelman propose des stratégies de communication ayant un impact émotionnel sur la cible. Pour celà ils doivent dans un premier temps vérifier le niveau de confiance du public visé, Edelman se réfère donc au baromètre pour connaître le taux de confiance sur le marché ciblé. 
-Edelman a décidé de nommer cette stratégie de communication basée sur la confiance  “ Edelman Trust Management “. 
-Ils sont donc les premiers utilisateurs de leur propre baromètre. 
-### L'utilisation des Entreprises
-### L'utilisation Politique
-### L'utulisation Média 
-## Baromètre 2022 : Ce que vous devez savoir
-![This is an image](https://www.edelman.com/trust/2022-trust-barometer)
-## Limits 
-## Notoriéré du baromètre 
-### Auprès de la presse
+
+### Auprès des étudiants 
 Afin d'en savoir plus sur ce que les étudiants, qui constituent un groupe important d'utilisateurs des résultats du baromètre, pensent de la pertinence et de la qualité du baromètre Edelman, nous avons réalisé une petite enquête. 
 
 L'enquête était basée sur un questionnaire de 5 questions et n'est pas représentative de la population étudiante générale en France. Nous étions intéressés premièrement par l'attitude des étudiants envers le Baromètre d’Edelman. Pensent-ils que le cet instrument puisse réellement mesurer le niveau de confiance du public dans les différentes institutions et quelle est l’attitude en générale envers le sujet de la confiance. 
-
-### Auprès des étudiants 
-
 
