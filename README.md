@@ -77,7 +77,7 @@ Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un im
 
 + L'attention envers les entreprises est excessive car la confiance envers les gouvernement est au plus bas, on attend d'elle prenne position sur de nombreux sujets sociétaux alors qu'elles reste avant tout des entreprises privées à but lucratif.
 
-![This is an image]
+![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/commit/073e1b1fd4fbc9d48e467926305f16dacba0ac8e)
 
 + La crise sanitaire a creusé la fissure de confiance qui existe à l'égard du gouvernement entre les personnes à revenu élevé et les personnes a revenu plus modeste. Les personnes à revenu élevé ont vu leurs confiances augmenter envers le gouvernement tandis que les plus bas revenus ont encore moins confiance qu'auparavant. 
 
