@@ -61,7 +61,7 @@ Selon Edelman, une entreprise  à laquelle on fait confiance est:
 En plus de consulter des informations sur son baromètre annuel, Edelman établit un diagnostique individuel de l'entreprise en calculant la confiance attribuer à cette organisation en particulier. Pour cela Edelman utilise un cadre de mesure de confiance s'appuyant sur les mêmes pilliers que le baromètre annuel appliqué à une organisation individuelle : "The Edelman Net Trust Score"
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Edelman%20Net%20Trust%20Score.png?raw=true)
 ### L'utilisation Politique
-### L'utulisation Média 
+### L'utilisation Média 
 ## Baromètre : Ce que vous devez savoir sur la confiance en 2022
 ### L'évolution de la confiance envers les institutions  
 La confiance a beaucoup évolué dans le monde durant les dernières années. Avant la crise du COVID, les leaders de gouvernement étaient ceux auquels on accordait le plus de confiance dans le monde mais aujourd'hui on relève que ce sont les moins truster sur l'étude mondial 2022. On présume que la gestion confuse et baclée de la crise du COVID par de nombreux gouvernements est à l'origine de cette décroissance du taux de confiance envers les gouvernements. 
