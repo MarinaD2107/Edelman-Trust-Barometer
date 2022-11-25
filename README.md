@@ -87,7 +87,7 @@ La crise du COVID à cependant été profitable aux institutions scientifiques q
 
 ### 4 raisons à l'origine du cycle de méfiance 
 Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un impact négatif sur la confiance susceptible de freiner les progrès sociaux sur des questions comme le racisme ou le changement climatique : 
-1) Il existe une spirale de méfiance à l'encontre du gouvernement et des médias car ces deux entités abuse d'une complicité à avantage mutuel dans le but d'orienter les votes et la pensée publique.
+1) Il existe une spirale de méfiance à l'encontre du gouvernement et des médias car ces deux entités abusent d'une complicité à avantage mutuel dans le but d'orienter les votes et la pensée publique.
 
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%201.png)
 Source : Edelman trust barometer 2022 / Almost seven in 10 people believe they’re being lied to by the media and government
