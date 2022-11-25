@@ -76,7 +76,29 @@ Selon Edelman, une entreprise  à laquelle on fait confiance est:
 
 En plus de consulter des informations sur son baromètre annuel, Edelman établit un diagnostique individuel de l'entreprise en calculant la confiance attribuer à cette organisation en particulier. Pour cela Edelman utilise un cadre de mesure de confiance s'appuyant sur les mêmes pilliers que le baromètre annuel appliqué à une organisation individuelle : "The Edelman Net Trust Score"
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Edelman%20Net%20Trust%20Score.png?raw=true)
+### L'utilisation d'Edelman pour les médias 
+
+Les médias sont l'une des principales institutions sociales. Au cours des 20 dernières années, son rôle a changé en raison des progrès technologiques, de l'émergence et du développement des réseaux sociaux et de l'intelligence artificielle. En plus de l'impact positif, elle a également apporté des défis tels que :
+utilisation de l'intelligence artificielle pour créer des fake news 
+utilisation des médias sociaux pour manipuler l'opinion publique
+l'utilisation des médias comme moyen de créer une suppression de l'opinion publique par la détermination d'un discours socialement bénéfique 
+
+À cet égard, la mesure du Baromètre Edelman du niveau de confiance dans l'institution médiatique peut être utilisée à la fois par les médias eux-mêmes et par d'autres acteurs afin de déterminer avec quel type de médias il est préférable de travailler pour obtenir un niveau de confiance plus élevé de la part de la société. 
+
+Par exemple, le baromètre Edelman pour 2022 était consacré au thème de la baisse de la confiance dans les gouvernements et les médias au niveau de la société mondiale. L'étude cite un tel concept comme étant le cercle de la méfiance :
+
+> Le gouvernement et les médias alimentent le cycle de la division et de la désinformation pour obtenir des votes et des clics.
+
+![This is an image](https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae0b09e1403f38a0aaf27134d65e5eefc5f91d2a/Screenshot%202022-11-25%20at%2023.59.13.png)
+
+Les données ci-dessus sont également confirmées Anne-Cécile Thomann, co-CEO Edelman France:
+
+> Le Covid-2019 a remis les gens à écouter, la radio est devant leur télé, donc ça veut dire quand même qui a eu un regain d'intérêt envers des médias traditionnels versus les réseaux sociaux. Et ça c'est intéressant à noter. Et pour autant, le paradoxe, en tout cas, c'est que ce n'est pas uniquement, je crois, un paradoxe français, c'est que l'on va dire le fond de base de la perception des gens vis à vis des médias, c'est que cette source de division, ce n'est pas tant le fait que des grandes fortunes possèdent des médias. On parle de la France, c'est plutôt qu'ils considèrent que les médias traditionnels sont probablement pas tellement dignes de confiance en fait. Voilà. Et puis il y a un deuxième fait qui est très intéressant et dont on a pas mal parlé depuis l'année dernière, c'est les fake news. C'est à dire qu'on parle de fake news sur les réseaux sociaux, mais en fait, il y a beaucoup de répondant sur les médias traditionnels qui considèrent que les médias traditionnels participent à propager des fausses informations et que donc du coup, ça devienne une arme politique également.
+
+Ainsi, l'analyse des données sur la confiance dans les médias peut être utile tant pour les médias eux-mêmes que pour ceux qui utilisent les médias comme canal de communication.
+
 ### L'utilisation Politique
+
  
 ## Baromètre : Ce que vous devez savoir sur la confiance en 2022
 ### L'évolution de la confiance envers les institutions  
