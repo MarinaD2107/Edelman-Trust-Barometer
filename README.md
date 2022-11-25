@@ -84,6 +84,6 @@ Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un im
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%204.jpeg)
 
 Source: Edelman Trust Barometer World
-## Limits 
+## Limites 
 ## L'avis des étudiants
 ## La presse en parle
