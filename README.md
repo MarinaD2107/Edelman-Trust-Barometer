@@ -61,15 +61,15 @@ Par exemple, ici le measurement de la confiance globale des Français par rappor
 ![la confiance globale des Français](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-24%20at%2023.55.38.png?raw=true)
 Un aspect important à étudier est également la méthodologie permettant de déterminer l'augmentation/diminution de la confiance dans chaque institution sociale.
 
-### La première étape est l'analyse de la mesure discrète.
+**La première étape** est l'analyse de la mesure discrète.
 Les répondants se voient proposer une liste de 12 qualités (voir ci-dessous), qu'ils doivent mettre en corrélation avec 4 institutions. Les résultats ont permis d'identifier l'augmentation de la confiance en points de pourcentage associée à chaque compétence considérée comme un point fort pour chacune des quatre institutions.
 
-### La deuxième étape est l'analyse de régression.
+**La deuxième étape** est l'analyse de régression.
 Pour chacun des comportements que la régression a déterminé comme étant un prédicteur significatif de la confiance, nous avons déterminé le pourcentage de personnes qui NE considéraient PAS actuellement ce comportement spécifique comme une force de l'institution. La taille de ce groupe a été le deuxième facteur déterminant l'élévation potentielle de la confiance qui se produirait si chaque institution était capable de convaincre tous les répondants qu'une compétence spécifique était un point fort. Enfin, ce pourcentage a été multiplié par l'effet marginal (ou point de pourcentage d'augmentation) sur la probabilité de confiance associée à l'évaluation du comportement comme un point fort de l'institution. Cela a donné le gain potentiel de confiance non réalisé pour chaque comportement pour chaque institution. 
 
 Les résultats de cette analyse pour les cinq principaux facteurs de performance de la confiance pour chaque institution, définis en termes de taille du gain de confiance non réalisé pour convertir chaque compétence en un point fort, sont affichés sur la diapositive.
 
-<img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.57.59.png" height="200" />  | <img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.58.04.png" height="150" />
+<img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.57.59.png" height="200" />  | <img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.58.04.png" height="200" />
 :-------------------------:|:-------------------------:
 Baromètre d'Edelman, 2022 | 
 
