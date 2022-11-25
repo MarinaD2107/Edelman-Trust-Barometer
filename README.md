@@ -52,11 +52,13 @@ L'étude distingue deux types de public: informé et générale. Pour montrer la
 Le baromètre d’Edelman est la plupart du temps utilisé comme un outil de veille car c’est une étude publique publiée annuellement. Les différents publics peuvent revenir d’une année sur l’autre pour effectuer une veille gratuitement , il n'existe donc pas de problème d’équité entre les différentes parties qui souhaite s’appuyer sur ces données pour construire leurs stratégies de communication.*
 ### L'utilisation d'Edelman pour les entreprises
 En tant qu'agence de communication, Edelman est le premier utilisateur de son propre baromètre. Leur objectif est de proposer des stratégies de communication ayant un impact émotionnel sur la cible. Pour celà ils doivent vérifier le niveau de confiance du public visé, Edelman se réfère donc au baromètre pour connaître le taux de confiance sur le marché ciblé. Selon eux, ils sont également en première position pour identifier les évolutions de société concernant le domaine de la confiance ce qui est un avantage considérable puisqu'il place la confiance au centre de la relation d'échange. 
-Au fil du temps ils ont appris à créer des opportunités stratégiques  permettant de maximiser la confiance envers les organisations, il propose leur expertise aux organisations et nomme cetter stratégie " Edelman Trust Management". 
+Au fil du temps ils ont appris à créer des opportunités stratégiques  permettant de maximiser la confiance envers les organisations, il propose leur expertise aux organisations et nomme cette stratégie " Edelman Trust Management". 
 Selon Edelman, une entreprise  à laquelle on fait confiance est: 
 + 6 fois plus susceptible de profiter de la fidélité du consommateur
 + 7 fois plus susceptible de demander des prix plus élevés 
-+ 8 fois plus résistante en tant qu'organisation 
++ 8 fois plus résistante en tant qu'organisation
+
+Pour faire évoluer la confiance envers une entreprise, Edelman éffectue tout d'abord un diagnostique en calculant la confiance attribuée à cette organisation. Pour cela Edelman utilise un cadre de mesure de confiance s'appuyant sur les mêmes pilliers que le baromètre annuel appliqué à une organisation individuelle : "The Edelman Net Trust Score"
 ### L'utilisation Politique
 ### L'utulisation Média 
 ## Baromètre 2022 : Ce que vous devez savoir
