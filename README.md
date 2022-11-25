@@ -63,13 +63,13 @@ En plus de consulter des informations sur son baromètre annuel, Edelman établi
 ### L'utilisation Politique
 ### L'utulisation Média 
 ## Baromètre : Ce que vous devez savoir sur la confiance en 2022
-### + L'évolution de la confiance envers les institutions  
+### L'évolution de la confiance envers les institutions  
 La confiance a beaucoup évolué dans le monde durant les dernières années. Avant la crise du COVID, les leaders de gouvernement étaient ceux auquels on accordait le plus de confiance dans le monde mais aujourd'hui on relève que ce sont les moins truster sur l'étude mondial 2022. On présume que la gestion confuse et baclée de la crise du COVID par de nombreux gouvernements est à l'origine de cette décroissance du taux de confiance envers les gouvernements. 
 La crise du COVID à cependant été profitable aux institutions scientifiques qui sont les plus truster à l'heure actuelle. 
 
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Societal%20Leaders%20not%20trusted.png)
 
-### + 4 raisons à l'origine du cycle de méfiance 
+### 4 raisons à l'origine du cycle de méfiance 
 Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un impact néfaste sur la confiance susceptible de freiner les progrès sociaux sur des questions comme le racisme ou le changement climatique : 
 1) Il existe une spirale de méfiance à l'encontre du gouvernement et des médias car ces deux entités abuse d'une complicité à avantage mutuel dans le but d'orienter les votes et la pensée publique.
 
