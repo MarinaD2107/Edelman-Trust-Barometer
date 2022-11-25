@@ -53,7 +53,7 @@ Le baromètre d’Edelman est la plupart du temps utilisé comme un outil de vei
 ### L'utilisation d'Edelman pour les entreprises
 En tant qu'agence de communication, Edelman est le premier utilisateur de son propre baromètre. Leur objectif est de proposer des stratégies de communication ayant un impact émotionnel sur la cible. Pour celà ils doivent vérifier le niveau de confiance du public visé, Edelman se réfère donc au baromètre pour connaître le taux de confiance sur le marché ciblé. Selon eux, ils sont également en première position pour identifier les évolutions de société concernant le domaine de la confiance ce qui est un avantage considérable puisqu'il place la confiance au centre de la relation d'échange. 
 Au fil du temps ils ont appris à créer des opportunités stratégiques  permettant de maximiser la confiance envers les organisations, il propose leur expertise aux organisations et nomme cetter stratégie " Edelman Trust Management". 
-Une entreprise qui à laquelle on fait confiance est: 
+Selon Edelman, une entreprise  à laquelle on fait confiance est: 
 + 6 fois plus susceptible de profiter de la fidélité du consommateur
 + 7 fois plus susceptible de demander des prix plus élevés 
 + 8 fois plus résistante en tant qu'organisation 
