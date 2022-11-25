@@ -59,19 +59,6 @@ L'indice est mesuré sur une échelle de neuf points, où 6-9 est considéré co
 Par exemple, ici le measurement de la confiance globale des Français par rapport aux autres pays. 
 
 ![la confiance globale des Français](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-24%20at%2023.55.38.png?raw=true)
-Un aspect important à étudier est également la méthodologie permettant de déterminer l'augmentation/diminution de la confiance dans chaque institution sociale.
-
-**La première étape** est l'analyse de la mesure discrète.
-Les répondants se voient proposer une liste de 12 qualités (voir ci-dessous), qu'ils doivent mettre en corrélation avec 4 institutions. Les résultats ont permis d'identifier l'augmentation de la confiance en points de pourcentage associée à chaque compétence considérée comme un point fort pour chacune des quatre institutions.
-
-**La deuxième étape** est l'analyse de régression.
-Pour chacun des comportements que la régression a déterminé comme étant un prédicteur significatif de la confiance, nous avons déterminé le pourcentage de personnes qui NE considéraient PAS actuellement ce comportement spécifique comme une force de l'institution. La taille de ce groupe a été le deuxième facteur déterminant l'élévation potentielle de la confiance qui se produirait si chaque institution était capable de convaincre tous les répondants qu'une compétence spécifique était un point fort. Enfin, ce pourcentage a été multiplié par l'effet marginal (ou point de pourcentage d'augmentation) sur la probabilité de confiance associée à l'évaluation du comportement comme un point fort de l'institution. Cela a donné le gain potentiel de confiance non réalisé pour chaque comportement pour chaque institution. 
-
-Les résultats de cette analyse pour les cinq principaux facteurs de performance de la confiance pour chaque institution, définis en termes de taille du gain de confiance non réalisé pour convertir chaque compétence en un point fort, sont affichés sur la diapositive.
-
-<img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.57.59.png" height="150" />  | <img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.58.04.png" height="200" />
-:-------------------------:|:-------------------------:
-Baromètre d'Edelman, 2022 | 
 
 En général, l'étude utilise principalement les échelles de Likert et de Bogardus. L'échelle de Likert est basée sur un système de 5 points allant de "pas du tout d'accord" à "tout à fait d'accord". Le principal inconvénient de ce type d'échelle est la tendance des répondants à éviter les polarités et à choisir une option neutre, en particulier pour les questions liées à des sujets sociaux aigus ou sensibles pour le répondant.
 
@@ -90,8 +77,7 @@ Selon Edelman, une entreprise  à laquelle on fait confiance est:
 En plus de consulter des informations sur son baromètre annuel, Edelman établit un diagnostique individuel de l'entreprise en calculant la confiance attribuer à cette organisation en particulier. Pour cela Edelman utilise un cadre de mesure de confiance s'appuyant sur les mêmes pilliers que le baromètre annuel appliqué à une organisation individuelle : "The Edelman Net Trust Score"
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Edelman%20Net%20Trust%20Score.png?raw=true)
 ### L'utilisation Politique
-### L'utilisation d'Edelman pour les médias
-
+### L'utilisation Média 
 ## Baromètre : Ce que vous devez savoir sur la confiance en 2022
 ### L'évolution de la confiance envers les institutions  
 La confiance a beaucoup évolué dans le monde durant les dernières années. Avant la crise du COVID, les leaders de gouvernement étaient ceux auquels on accordait le plus de confiance dans le monde mais aujourd'hui on relève que ce sont les moins truster sur l'étude mondial 2022. On présume que la gestion confuse et baclée de la crise du COVID par de nombreux gouvernements est à l'origine de cette décroissance du taux de confiance envers les gouvernements. 
@@ -119,9 +105,15 @@ Source: Edelman Trust Barometer World / Trust in employer
 ### Auprès de la presse
 La baromètre d'Edelman est devenu une référence pour la presse dans le monde entié, de nombreux journalistes basent leurs réfléxions sur l'études des chiffre de cette enquête annuelle. 
 Lorsque l'on s'intéresse aux publications dans la presse on remarque que les sujets les plus récurrants utilisant le baromètre d'Edelman sont en lien avec deux thèmes : 
-+ La crise de confiance actuelle envers les gouvernements 
-- [French Web ](https://www.frenchweb.fr/pourquoi-la-crise-de-confiance-vis-a-vis-des-medias-se-creuse-dans-le-monde/433309)
++ La crise de confiance actuelle envers les gouvernements et les médias
+- [French Web : La crise de confiance envers les médias se creuse](https://www.frenchweb.fr/pourquoi-la-crise-de-confiance-vis-a-vis-des-medias-se-creuse-dans-le-monde/433309)
+- [La Depeche : La confiance envers les médias au plus bas](https://www.ladepeche.fr/2022/01/24/la-confiance-dans-les-medias-au-plus-bas-a-travers-le-monde-10066184.php) 
+- [Journal du Québec : l'importance vitale des médias](https://www.journaldequebec.com/2022/03/20/limportance-vitale-des-medias)
+
 + L'accentuation du rôle des entreprises dans notre société 
+- [Les échos: l'image des entreprises s'est améliorée ](https://www.lesechos.fr/industrie-services/services-conseils/limage-des-entreprises-sest-amelioree-pendant-le-covid-1387337) 
+- [ Le devoir : les entreprises ont un rôle un jouer ](https://www.ledevoir.com/opinion/idees/754008/idees-les-entreprises-ont-un-role-a-jouer-pour-susciter-la-participation-electorale) 
+- [ Les échos : Comment l'entreprise à pour mission de s'impliquer dans la société ](https://www.lesechos.fr/idees-debats/leadership-management/comment-lentreprise-a-mission-simplique-dans-la-societe-1347098)
 
 ### Auprès des étudiants 
 Afin d'en savoir plus sur ce que les étudiants, qui constituent un groupe important d'utilisateurs des résultats du baromètre, pensent de la pertinence et de la qualité du baromètre Edelman, nous avons réalisé une petite enquête. 
