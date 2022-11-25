@@ -74,7 +74,7 @@ Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un im
 1) Il existe une spirale de méfiance à l'encontre du gouvernement et des médias car ces deux entités abuse d'une complicité à avantage mutuel dans le but d'orienter les votes et la pensée publique.
 
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%201.png)
-
+Source : Edelman trust barometer 2022 / Almost seven in 10 people believe they’re being lied to by the media and government
 2) L'attention envers les entreprises est excessive car la confiance envers les gouvernement est au plus bas, on attend d'elle prenne position sur de nombreux sujets sociétaux alors qu'elles reste avant tout des entreprises privées à but lucratif.
 
 3) La crise sanitaire a creusé la fissure de confiance qui existe à l'égard du gouvernement entre les personnes à revenu élevé et les personnes a revenu plus modeste. Les personnes à revenu élevé ont vu leurs confiances augmenter envers le gouvernement tandis que les plus bas revenus ont encore moins confiance qu'auparavant. 
@@ -82,7 +82,6 @@ Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un im
 4) La confiance s'éloigne des leaders et devient plus local et dispersée. L'éloignement hiérarchique accroit le manque de confiance, on a désormais plus confiance en son employeur que dans les principaux médias et leaders gouernementaux. 
 
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%204.jpeg)
-
 Source: Edelman Trust Barometer World
 ## Limites 
 ## L'avis des étudiants
