@@ -17,6 +17,7 @@ Une enquête est l'un des moyens les plus courants de mesurer le niveau de confi
 
 ## La structure du baromètre 
 **L’information sur la structure générale**
+
 Edelman Baromètre est l'enquête quantitative donc il consistent principalement des questions fermées. Il existe trois types des questions ferment utilisés dans le Baromètre:
 1) Les questions comportant les réponses binaire (oui ou non)
 2) Les questions comportant les multiple réponses 
@@ -31,7 +32,7 @@ Baromètre d'Edelman, 2021 | Baromètre d'Edelman, 2022
 
 **La méthodologie**
 
-Chaque année l’enquête en ligne est lancée dans les 28 pays avec plus de 1500 répondants per pays, l'échantillon totale est 36000+ de répondants. 
+Chaque année l’enquête en ligne est lancée dans les 28 pays avec plus de 1500 répondants per pays, l'échantillon totale est 36000+ de répondants. Mais il est également important de noter que, chaque année, certains pays sont exclus du baromètre parce qu'il existe un risque de distorsion des données et d'erreur de représentativité statistique. Par exemple, le Nigeria a été exclu du Baromètre 2021 car la population qui a la possibilité de répondre à l'enquête en ligne n'est pas représentative de l'ensemble de la population du pays à divers égards.
 
 Par exemple, la description de la construction de l'échantillon en 2021 est suivante (27 pays):
 General population +/- 0.6% (N=31,050); 
@@ -44,50 +45,43 @@ Country-specific data margin of error:
 + informed public +/- 6.9% (N=min 200, varies by country), except for China and U.S. +/- 4.4% (N=500) and Nigeria +/- 9.8% (N=100);
 L'étude distingue deux types de public: informé et générale. Pour montrer la différence entre les gens qui sont plus intéressés par le sujet du Baromètre et aussi se placent sur le niveau social plus haut par rapport aux gens qui sont dans la public générale. C’est indiqué sur les résultats de recherche quand les questions étaient adresse aux gens que représentent le public informé.
 
-![Le niveau de la confiance dans les medias aux Etats-Unis]()
+La méthodologie, example du Baromètre de la confiance en France sur la protection de la Santé 
+![La méthodologie](https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/68870c4ec97e55b898746de797842ba3cbcf8d82/Screenshot%202022-11-24%20at%2023.19.45.png)
 
+**Indice de la confiance**
+
+L'instrument principal pour l’analyse des données est l’indice de la confiance. L'indice de confiance est le pourcentage moyen de confiance dans les ONG, les entreprises, les gouvernements et les médias. 
+
+L'indice est mesuré sur une échelle de neuf points, où 6-9 est considéré comme de la confiance. À partir de cela, différents niveaux de confiance sont alors établis :
++ il y a une défiance lorsque l’indice de confiance est inférieur à 50%,
++ la confiance est neutre lorsqu’il est compris entre 50% et 59%,
++ la confiance est atteinte lorsqu’il est supérieur à 60%.
+Par exemple, ici le measurement de la confiance globale des Français par rapport aux autres pays. 
+
+![la confiance globale des Français](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-24%20at%2023.55.38.png?raw=true)
+
+En général, l'étude utilise principalement les échelles de Likert et de Bogardus. L'échelle de Likert est basée sur un système de 5 points allant de "pas du tout d'accord" à "tout à fait d'accord". Le principal inconvénient de ce type d'échelle est la tendance des répondants à éviter les polarités et à choisir une option neutre, en particulier pour les questions liées à des sujets sociaux aigus ou sensibles pour le répondant.
+
+Dans ce cas, l'échelle de Bogardus est un moyen logique d'équilibrer la précision des données étudiées, car il s'agit d'une échelle cumulative qui permet de mesurer la proximité d'un individu avec, dans le cas du Baromètre d'Edelman, une institution sociale. Le baromètre utilise une échelle de neuf points, où 1 à 4 = aucune confiance, 4 à 6 = confiance modérée, 6+ = confiance totale. 
 
 
 ## Les utilisateurs du baromètre
 Le baromètre d’Edelman est la plupart du temps utilisé comme un outil de veille car c’est une étude publique publiée annuellement. Les différents publics peuvent revenir d’une année sur l’autre pour effectuer une veille gratuitement , il n'existe donc pas de problème d’équité entre les différentes parties qui souhaite s’appuyer sur ces données pour construire leurs stratégies de communication.*
-### L'utilisation d'Edelman pour les entreprises
-En tant qu'agence de communication, Edelman est le premier utilisateur de son propre baromètre. Leur objectif est de proposer des stratégies de communication ayant un impact émotionnel sur la cible. Pour celà ils doivent vérifier le niveau de confiance du public visé, Edelman se réfère donc au baromètre pour connaître le taux de confiance sur le marché ciblé. Selon eux, ils sont également en première position pour identifier les évolutions de société concernant le domaine de la confiance ce qui est un avantage considérable puisqu'il place la confiance au centre de la relation d'échange. 
-Au fil du temps ils ont appris à créer des opportunités stratégiques  permettant de maximiser la confiance envers les organisations, il propose leur expertise aux organisations et nomme cette stratégie " Edelman Trust Management". 
-Selon Edelman, une entreprise  à laquelle on fait confiance est: 
-+ 6 fois plus susceptible de profiter de la fidélité du consommateur
-+ 7 fois plus susceptible de demander des prix plus élevés 
-+ 8 fois plus résistante en tant qu'organisation
-
-En plus de consulter des informations sur son baromètre annuel, Edelman établit un diagnostique individuel de l'entreprise en calculant la confiance attribuer à cette organisation en particulier. Pour cela Edelman utilise un cadre de mesure de confiance s'appuyant sur les mêmes pilliers que le baromètre annuel appliqué à une organisation individuelle : "The Edelman Net Trust Score"
-![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Edelman%20Net%20Trust%20Score.png?raw=true)
+### L'utilisation d'Edelman 
+En tant qu'agence de communication, Edelman propose des stratégies de communication ayant un impact émotionnel sur la cible. Pour celà ils doivent dans un premier temps vérifier le niveau de confiance du public visé, Edelman se réfère donc au baromètre pour connaître le taux de confiance sur le marché ciblé. 
+Edelman a décidé de nommer cette stratégie de communication basée sur la confiance  “ Edelman Trust Management “. 
+Ils sont donc les premiers utilisateurs de leur propre baromètre. 
+### L'utilisation des Entreprises
 ### L'utilisation Politique
-### L'utilisation Média 
-## Baromètre : Ce que vous devez savoir sur la confiance en 2022
-### L'évolution de la confiance envers les institutions  
-La confiance a beaucoup évolué dans le monde durant les dernières années. Avant la crise du COVID, les leaders de gouvernement étaient ceux auquels on accordait le plus de confiance dans le monde mais aujourd'hui on relève que ce sont les moins truster sur l'étude mondial 2022. On présume que la gestion confuse et baclée de la crise du COVID par de nombreux gouvernements est à l'origine de cette décroissance du taux de confiance envers les gouvernements. 
-La crise du COVID à cependant été profitable aux institutions scientifiques qui sont les plus truster à l'heure actuelle. 
-
-![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Societal%20Leaders%20not%20trusted.png)
-
-### 4 raisons à l'origine du cycle de méfiance 
-Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un impact négatif sur la confiance susceptible de freiner les progrès sociaux sur des questions comme le racisme ou le changement climatique : 
-1) Il existe une spirale de méfiance à l'encontre du gouvernement et des médias car ces deux entités abuse d'une complicité à avantage mutuel dans le but d'orienter les votes et la pensée publique.
-
-![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%201.png)
-Source : Edelman trust barometer 2022 / Almost seven in 10 people believe they’re being lied to by the media and government
-
-2) L'attention envers les entreprises est excessive car la confiance envers les gouvernement est au plus bas, on attend d'elle prenne position sur de nombreux sujets sociétaux alors qu'elles reste avant tout des entreprises privées à but lucratif.
-
-3) La crise sanitaire a creusé la fissure de confiance qui existe à l'égard du gouvernement entre les personnes à revenu élevé et les personnes a revenu plus modeste. Les personnes à revenu élevé ont vu leurs confiances augmenter envers le gouvernement tandis que les plus bas revenus ont encore moins confiance qu'auparavant. 
-
-4) La confiance s'éloigne des leaders et devient plus local et dispersée. L'éloignement hiérarchique accroit le manque de confiance, on a désormais plus confiance en son employeur que dans les principaux médias et leaders gouernementaux. 
-
-![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%204.jpeg)
-Source: Edelman Trust Barometer World / Trust in employer
-## Limites 
+### L'utulisation Média 
+## Baromètre 2022 : Ce que vous devez savoir
+![This is an image](https://www.edelman.com/trust/2022-trust-barometer)
+## Limits 
 ## L'avis des étudiants
+Afin d'en savoir plus sur ce que les étudiants, qui constituent un groupe important d'utilisateurs des résultats du baromètre, pensent de la pertinence et de la qualité du baromètre Edelman, nous avons réalisé une petite enquête. 
+
+L'enquête était basée sur un questionnaire de 5 questions et n'est pas représentative de la population étudiante générale en France. Nous étions intéressés premièrement par l'attitude des étudiants envers le Baromètre d’Edelman. Pensent-ils que le cet instrument puisse réellement mesurer le niveau de confiance du public dans les différentes institutions et quelle est l’attitude en générale envers le sujet de la confiance. 
+
+
+
 ## La presse en parle
-La baromètre d'Edelman est devenu une référence pour la presse dans le monde entié, de nombreux journalistes basent leurs réfléxions sur l'études des chiffre de cette enquête annuelle. 
-Lorsque l'on s'intéresse aux publications dans la presse on remarque que les sujets les plus récurrants utilisant le baromètre d'Edelman sont en liens avec deux thèmes : 
-+ La crise de confiance actuelle envers les gouvernements 
-+ L'accentuation du rôle des entreprises dans notre société 
