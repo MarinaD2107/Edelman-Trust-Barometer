@@ -66,7 +66,12 @@ En plus de consulter des informations sur son baromètre annuel, Edelman établi
 ### 1) L'évolution de la confiance envers les institutions  
 La confiance a beaucoup évolué dans le monde durant les dernières années. Avant la crise du COVID, les leaders de gouvernement étaient ceux auquels on accordait le plus de confiance dans le monde mais aujourd'hui on relève que ce sont les moins truster sur l'étude mondial 2022. On présume que la gestion confuse et baclée de la crise du COVID par de nombreux gouvernements est à l'origine de cette décroissance du taux de confiance envers les gouvernements. 
 La crise du COVID à cependant été profitable aux institutions scientifiques qui sont les plus truster à l'heure actuelle. 
-
+### 2) 4 raisons à l'origine du cycle de méfiance 
+Gràce au baromètre 2022, Edelman a identifié 4 forces principales ayant un impact néfaste sur la confiance susceptible de freiner les progrès sociaux sur des questions comme le racisme ou le changement climatique : 
++ Il existe une spirale de méfiance à l'encontre du gouvernement et des médias car ces deux entités abuse d'une complicité à avantage mutuel dans le but d'orienter les votes et la pensée publique.
++ L'attention envers les entreprises est excessive car la confiance envers les gouvernement est au plus bas, on attend d'elle prenne position sur de nombreux sujets sociétaux alors qu'elles reste avant tout des entreprises privées à but lucratif.
++ La crise sanitaire a creusé la fissure de confiance qui existe à l'égard du gouvernement entre les personnes à revenu élevé et les personnes a revenu plus modeste. Les personnes à revenu élevé ont vu leurs confiances augmenter envers le gouvernement tandis que les plus bas revenus ont encore moins confiance qu'auparavant. 
++ La confiance s'éloigne des leaders et devient plus local et dispersée. L'éloignement hiérarchique accroit le manque de confiance, on a désormais plus confiance en son employeur que dans les principaux médias et leaders gouernementaux. 
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Societal%20Leaders%20not%20trusted.png)
 Source: Edelman Trust Barometer World
 ## Limits 
