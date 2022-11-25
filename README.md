@@ -104,7 +104,7 @@ Source: Edelman Trust Barometer World / Trust in employer
 ## Notoriéré du baromètre 
 ### Auprès de la presse
 La baromètre d'Edelman est devenu une référence pour la presse dans le monde entié, de nombreux journalistes basent leurs réfléxions sur l'études des chiffre de cette enquête annuelle. 
-Lorsque l'on s'intéresse aux publications dans la presse on remarque que les sujets les plus récurrants utilisant le baromètre d'Edelman sont en liens avec deux thèmes : 
+Lorsque l'on s'intéresse aux publications dans la presse on remarque que les sujets les plus récurrants utilisant le baromètre d'Edelman sont en lien avec deux thèmes : 
 + La crise de confiance actuelle envers les gouvernements 
 + L'accentuation du rôle des entreprises dans notre société 
 
