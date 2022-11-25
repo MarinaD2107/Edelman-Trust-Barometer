@@ -59,6 +59,7 @@ Selon Edelman, une entreprise  à laquelle on fait confiance est:
 + 8 fois plus résistante en tant qu'organisation
 
 Pour faire évoluer la confiance envers une entreprise, Edelman éffectue tout d'abord un diagnostique en calculant la confiance attribuée à cette organisation. Pour cela Edelman utilise un cadre de mesure de confiance s'appuyant sur les mêmes pilliers que le baromètre annuel appliqué à une organisation individuelle : "The Edelman Net Trust Score"
+![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Edelman%20Net%20Trust%20Score.png?raw=true)
 ### L'utilisation Politique
 ### L'utulisation Média 
 ## Baromètre 2022 : Ce que vous devez savoir
