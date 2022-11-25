@@ -69,7 +69,7 @@ Pour chacun des comportements que la régression a déterminé comme étant un p
 
 Les résultats de cette analyse pour les cinq principaux facteurs de performance de la confiance pour chaque institution, définis en termes de taille du gain de confiance non réalisé pour convertir chaque compétence en un point fort, sont affichés sur la diapositive.
 
-<img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.57.59.png" height="200" />  | <img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.58.04.png" height="200" />
+<img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.57.59.png" height="150" />  | <img src="https://raw.githubusercontent.com/MarinaD2107/Edelman-Trust-Barometer/ae1adb67309d94e068bb4565b7bc0be4474dff14/Screenshot%202022-11-25%20at%2021.58.04.png" height="200" />
 :-------------------------:|:-------------------------:
 Baromètre d'Edelman, 2022 | 
 
