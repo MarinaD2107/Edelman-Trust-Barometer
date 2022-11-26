@@ -33,7 +33,7 @@ Baromètre d'Edelman, 2021 | Baromètre d'Edelman, 2022
 2. Des questions qui évoluent en fonction des thèmes du baromètre, puisque celui-ci change chaque année et couvre, en plus des thèmes permanents (indicateurs), des thèmes liés aux évolutions de la société.
 
 Les sujets du baromètre:
-![Les sujets du baromètre:](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-26%20at%2019.39.36.png?raw=true)
+![Les sujets du baromètre](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-26%20at%2019.39.36.png?raw=true)
 
 **La méthodologie**
 
