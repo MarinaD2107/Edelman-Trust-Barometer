@@ -19,16 +19,20 @@ Une enquête est l'un des moyens les plus courants de mesurer le niveau de confi
 **L’information sur la structure générale**
 
 Edelman Baromètre est l'enquête quantitative donc il consistent principalement des questions fermées. Il existe trois types des questions ferment utilisés dans le Baromètre:
-1) Les questions comportant les réponses binaire (oui ou non)
-2) Les questions comportant les multiple réponses 
-3) Les échelles (une échelle de Likert, Bogardus) 
+1. Les questions comportant les réponses binaire (oui ou non)
+2. Les questions comportant les multiple réponses 
+3. Les échelles (une échelle de Likert, Bogardus) 
 
 L'une des caractéristiques du baromètre est qu’il consiste de deux types de questions par rapport au sens:
-1) Les questions qui sont toujours standard, qui sont chaque année présentées pour montrer le bougement dans l’attitude des gens. Par exemple, la question par rapport à la confiance envers  les gouvernements, les ONG, les médias et les entreprises:
+1. Les questions qui sont toujours standard, qui sont chaque année présentées pour montrer le bougement dans l’attitude des gens. Par exemple, la question par rapport à la confiance envers  les gouvernements, les ONG, les médias et les entreprises:
 
 <img src="https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-24%20at%2019.18.53.png?raw=true" height="200" />  | <img src="https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Screenshot%202022-11-24%20at%2019.18.53.png?raw=true" height="200" />
 :-------------------------:|:-------------------------:
 Baromètre d'Edelman, 2021 | Baromètre d'Edelman, 2022
+
+2. Des questions qui évoluent en fonction des thèmes du baromètre, puisque celui-ci change chaque année et couvre, en plus des thèmes permanents (indicateurs), des thèmes liés aux évolutions de la société.
+
+Les sujets du baromètre 
 
 **La méthodologie**
 
