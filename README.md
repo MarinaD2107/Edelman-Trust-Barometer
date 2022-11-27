@@ -113,6 +113,15 @@ Ainsi, l'analyse des données sur la confiance dans les médias peut être utile
 
 ### L'utilisation Politique
 
+Enfin, le Trust Barometer développé par Edelman est aussi utilisé par l’agence afin de conseiller des hommes politiques et/ou leur parti. Ayant conscience de l’environnement dans lequel ils évoluent, l’agence a une vision macro et peut les accompagner au mieux. Dans un monde hyper connecté où l’information est rendue accessible instantanément avec les réseaux sociaux et les fake news rendues de plus en plus crédibles, ce que propose Edelman aux clients de ce secteur répond à nombreux de leurs besoins. En effet, en politique et plus que jamais, les sentiments ont pris aujourd’hui une place considérable et les débats politiques se basent plus sur l’actualité que sur les programmes des partis. Dans ce sens, Edelman propose des stratégies de communication ayant un impact émotionnel sur la cible visée. 
+
+En tant qu’agence intégrée, Edelman chasse aussi sur les terrains de cabinets de conseil en affaires publiques telles que Boury, Tallon & Associés ou encore Com’Publics en faisant du lobbying à l’échelle locale, nationale mais aussi européenne. Grâce à son Trust Barometer, l’agence a une compréhension fine des enjeux de ses clients et des rapports de force politiques, médiatiques et sociaux, ce qui lui permet alors de défendre leurs intérêts auprès des écosystèmes d’influence ainsi que de convaincre l’opinion publique. 
+
+Le Trust Barometer d'Edelman mesurant la confiance envers les gouvernements, l'agence a alors une meilleure visibilité sur le secteur de la politique et des rapports de force:
+![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/26640.jpeg?raw=true)
+
+En somme, le Trust Barometer produit par Edelman est un outil utilisé en premier lieu en interne par cette agence pour ses différents clients. L’étude étant publiée annuellement et retrouvable gratuitement sur Internet, nous allons maintenant nous intéresser à celle produite en 2022.
+
  
 ## Baromètre : Ce que vous devez savoir sur la confiance en 2022
 ### L'évolution de la confiance envers les institutions  
