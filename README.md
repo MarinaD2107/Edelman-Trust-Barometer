@@ -150,6 +150,12 @@ Par exemple, en 2022 le gouvernement envers lequel les populations ont le plus c
 
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/26640.jpeg?raw=true)
 
+### Le format de l'enquête menée par Edelman Data & Intelligence
+Rejoignant en partie la première limite citée, la seconde limite que nous voyons concernant le Trust Barometer d’Edelman est le fait que cette étude ait lieu en ligne. Contrairement aux études permettant aux enquêteurs de rencontrer les personnes interrogées, cette étude d’Edelman se fait en ligne et ne permet pas d’approfondir certaines questions. Ce système empêche Edelman de juger d’autres aspects que ce qui est affirmé par les répondants tel que leur comportement non-verbal ou encore de rebondir sur ce qui pourrait être dit par ces derniers. De plus, les réponses sont parfois fermées et ne nécessitent qu’une réponse : un oui ou un non. Néanmoins, nous sommes persuadés qu’il aurait été préférable de sentir l’aisance avec laquelle certaines populations parlent de certains sujets. Est-ce qu’un Chinois peut s’exprimer avec la même liberté qu’un Américain lorsqu’il est question de leur gouvernement respectif ? Comment un Saoudien perçoit les médias de son pays par rapport à un Français ? Tant de questions intéressantes qui resteront sans réponse avec le Trust Barometer d’Edelman à cause du format de cette enquête qui a lieu en ligne. 
+
+Après avoir étudié les limites du Trust Barometer d’Edelman, nous allons maintenant nous pencher sur sa notoriété. 
+
+
 ## Notoriéré du baromètre 
 ### Auprès de la presse
 Le baromètre d'Edelman est devenu une référence pour la presse dans le monde entier, de nombreux journalistes basent leurs réflexions sur l'étude des chiffres de cette enquête annuelle. 
