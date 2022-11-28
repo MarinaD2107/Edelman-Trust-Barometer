@@ -117,9 +117,6 @@ Enfin, le Trust Barometer développé par Edelman est aussi utilisé par l’age
 
 En tant qu’agence intégrée, Edelman chasse aussi sur les terrains de cabinets de conseil en affaires publiques telles que Boury, Tallon & Associés ou encore Com’Publics en faisant du lobbying à l’échelle locale, nationale mais aussi européenne. Grâce à son Trust Barometer, l’agence a une compréhension fine des enjeux de ses clients et des rapports de force politiques, médiatiques et sociaux, ce qui lui permet alors de défendre leurs intérêts auprès des écosystèmes d’influence ainsi que de convaincre l’opinion publique. 
 
-Le Trust Barometer d'Edelman mesurant la confiance envers les gouvernements, l'agence a alors une meilleure visibilité sur le secteur de la politique et des rapports de force:
-![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/26640.jpeg?raw=true)
-
 En somme, le Trust Barometer produit par Edelman est un outil utilisé en premier lieu en interne par cette agence pour ses différents clients. L’étude étant publiée annuellement et retrouvable gratuitement sur Internet, nous allons maintenant nous intéresser à celle produite en 2022.
 
  
@@ -146,6 +143,13 @@ Source : Edelman trust barometer 2022 / Almost seven in 10 people believe they�
 ![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/Raison%204.jpeg)
 Source: Edelman Trust Barometer World / Trust in employer
 ## Les limites du baromètre
+### Réponses biaisées par le gouvernement en place dans certains pays
+La première limite que nous voyons au Trust Barometer d’Edelman est le fait que celui-ci interroge des personnes vivant dans des régimes différents sans prendre en compte les subtilités des pays. En effet, la branche de l’agence chargée de cela, Edelman Data & Intelligence, interroge des populations provenant de pays occidentaux (France, États-Unis, Canada, etc…) mais aussi de pays orientaux où une répression, une censure, peut avoir lieu (Chine, Inde, Arabie Saoudite, etc…). Le fait de poser des questions identiques pour des personnes vivant dans des régions du monde et des régimes différents peut fausser certains résultats. 
+
+Par exemple, en 2022 le gouvernement envers lequel les populations ont le plus confiance est le gouvernement chinois avec 91% de confiance. Certes ce pays est collectiviste, la population remet constamment son destin entre les mains du PCC mais le score n’aurait pas été aussi important si les sondages n’avaient pas lieu en ligne puisque dans ce pays, l’État contrôle tout ce qui se passe offline et online. Ainsi, le système de crédit social chinois, un système de notation ayant vu le jour pour que les Chinois puissent avoir confiance les uns envers les autres, aurait potentiellement joué un rôle dans les résultats du Trust Barometer d’Edelman en poussant la population à tenir des propos élogieux au sujet de leurs dirigeants afin de voir leur note sociale augmentée. À contrario, seule 39% de la population américaine a confiance en son gouvernement. 
+
+![This is an image](https://github.com/MarinaD2107/Edelman-Trust-Barometer/blob/main/26640.jpeg?raw=true)
+
 ## Notoriéré du baromètre 
 ### Auprès de la presse
 Le baromètre d'Edelman est devenu une référence pour la presse dans le monde entier, de nombreux journalistes basent leurs réflexions sur l'étude des chiffres de cette enquête annuelle. 
